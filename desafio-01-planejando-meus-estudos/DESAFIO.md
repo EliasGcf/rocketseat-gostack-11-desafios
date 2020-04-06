@@ -68,3 +68,7 @@ Dica: Adicione conteúdo extra como leituras e podcasts, lembre-se de ter pequen
 ## :calendar: Entrega
 
 Esse desafio deve ser entregue a partir da plataforma Skylab. Após concluir o desafio, fazer um post no Linkedin sobre ele é uma boa forma de demonstrar seus esforços para evoluir na sua carreira para oportunidades futuras.
+
+---
+
+Feito com 💜 by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
