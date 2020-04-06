@@ -6,7 +6,7 @@
 
 ## Índice de resoluções dos desafios
 
-- [01 - Planejando meus estudos](desafio-01-planejando-meus-estudos/README.md)
+- [01 - Planejando meus estudos](desafio-01-planejando-meus-estudos)
 - [02 - Conceitos do Node.js](https://github.com/EliasGcf/bootcamp-gostack-desafios)
 - [03 - Conceitos do ReactJS](https://github.com/EliasGcf/bootcamp-gostack-desafios)
 - [04 - Conceitos do React Native](https://github.com/EliasGcf/bootcamp-gostack-desafios)
