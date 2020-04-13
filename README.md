@@ -10,6 +10,7 @@
 - [02 - Conceitos do Node.js](desafio-02-conceitos-nodejs)
 - [03 - Conceitos do ReactJS](desafio-03-conceitos-reactjs)
 - [04 - Conceitos do React Native](desafio-04-conceitos-react-native)
+- [05 - Fundamentos do Node.js](desafio-05-fundamentos-nodejs)
 
 ## 📝 Licença
 
