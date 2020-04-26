@@ -13,6 +13,7 @@
 - [05 - Fundamentos do Node.js](desafio-05-fundamentos-nodejs)
 - [06 - Banco de dados e upload de arquivos no Node.js](desafio-06-database-upload)
 - [07 - Fundamentos do ReactJS](desafio-07-fundamentos-reactjs)
+- [08 - Fundamentos do React Native](desafio-08-fundamentos-react-native)
 
 ## 📝 Licença
 
