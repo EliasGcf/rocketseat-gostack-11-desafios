@@ -14,6 +14,7 @@
 - [06 - Banco de dados e upload de arquivos no Node.js](desafio-06-database-upload)
 - [07 - Fundamentos do ReactJS](desafio-07-fundamentos-reactjs)
 - [08 - Fundamentos do React Native](desafio-08-fundamentos-react-native)
+- [09 - Relacionamentos com banco de dados no Node.js](desafio-09-relacionamentos-banco-de-dados-nodejs)
 
 ## 📝 Licença
 
