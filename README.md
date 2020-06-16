@@ -16,6 +16,7 @@
 - [08 - Fundamentos do React Native](desafio-08-fundamentos-react-native)
 - [09 - Relacionamentos com banco de dados no Node.js](desafio-09-relacionamentos-banco-de-dados-nodejs)
 - [10 - CRUD no ReactJS](desafio-10-crud-reactjs)
+- [11 - Navegação e filtros no React Native](desafio-11-navegacao-filtros-react-native)
 
 ## 📝 Licença
 
