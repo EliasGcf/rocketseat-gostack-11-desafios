@@ -24,4 +24,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com 💜 by [EliasGcf](https://www.linkedin.com/in/eliasgcf/)
+Feito com 💜 &nbsp;by [EliasGcf](https://www.linkedin.com/in/eliasgcf/)
